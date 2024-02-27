@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Rolladay Home" />
         <p className="description">
-          Sorry, I'm preparing service. please wait.. big a moment</code>
+          Sorry, I'm preparing service. please wait.. big a moment!
         </p>
       </main>
 
